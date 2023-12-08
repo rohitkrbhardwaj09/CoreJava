@@ -13,7 +13,6 @@ public class Problem3 {
 	}
 
 	private static boolean validate(String text) {
-		// TODO Auto-generated method stub
 		return text.matches("[a-z]+_[a-z]+$");
 	}
 

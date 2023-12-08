@@ -17,6 +17,7 @@ public class Problem2{
 	private static boolean validate(String text) {
 		
 		return text.matches("[p][q]*");
+		
 	}
 	
 }

@@ -9,7 +9,6 @@ public class Problem4 {
 	}
 
 	private static boolean validate(String text) {
-		// TODO Auto-generated method stub
 		return text.matches("[A-Z][a-z]+");
 		
 	}

@@ -15,7 +15,6 @@ class Problem1{
     }
 
 	private static boolean validate(String text) {
-		// TODO Auto-generated method stub
 		return text.matches("[\\w]+");
 	}
 }

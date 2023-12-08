@@ -9,7 +9,6 @@ public class Problem5 {
 	}
 
 	private static boolean validate(String text) {
-		// TODO Auto-generated method stub
 		return text.matches("[p].*[q]");
 	}
 
